@@ -18,5 +18,13 @@ Self-supervised Learning for Identifying Metastatic Cancer in Histopathology Ima
 </p>
 
 <p align="center">
-<img src="images/adv.png" alt="drawing" width="400"/>
+<img src="images/rec.png" alt="drawing" width="400"/>
+</p>
+
+<p align="center">
+<img src="images/adversial.png" alt="drawing" width="760"/>
+</p>
+
+<p align="center">
+<img src="images/total.png" alt="drawing" width="300"/>
 </p>
